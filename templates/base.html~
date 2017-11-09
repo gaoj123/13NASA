@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>NASA Image</title>
+  </head>
+  <body>
+    <h1>NASA Image!</h1>
+    <img src=" {{imgURL}} ">
+  </body>
+  </html>
